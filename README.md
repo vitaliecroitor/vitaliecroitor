@@ -1,118 +1,127 @@
 <!-- Header -->
 <div align="center">
   <h1>Vitalie Croitor</h1>
-  <h3>Senior Android Engineer &nbsp;·&nbsp; BLE & Kotlin Specialist &nbsp;·&nbsp; Building in Public</h3>
-
+  <p><strong>Lead Android Engineer · Bluetooth & Hardware Specialist · Engineering Leader</strong></p>
   <p>
-    <a href="https://vitaliecroitor.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Website-vitaliecroitor.dev-0A7B80?style=flat-square&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/vitaliecroitor" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Vitalie%20Croitor-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:vitalie@vitaliecroitor.dev">
-      <img src="https://img.shields.io/badge/Email-vitalie@vitaliecroitor.dev-B96A00?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://youtube.com/@vitaliecroitor" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-@vitaliecroitor-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-    </a>
+    I build production-grade Android systems — from BLE device communication and NFC hardware integration to cloud infrastructure.<br/>
+    13+ years shipping apps used by 300,000+ people, and leading the engineers who build them.
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=vitaliecroitor&style=flat-square&color=0A7B80&label=profile+views" />
+  <p>
+    <a href="https://vitaliecroitor.dev">🌐 vitaliecroitor.dev</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/vitalie-croitor">💼 LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:croitorvit@gmail.com">✉️ croitorvit@gmail.com</a>
+  </p>
+  <p>📍 Cluj-Napoca, Romania</p>
 </div>
 
 ---
 
-## About
+## What I Build
 
-I'm a Senior Android Engineer with deep experience in **Bluetooth Low Energy (BLE)**, **Kotlin architecture**, and **production mobile systems**. I care about reliability, clarity in code, and systems that work in the real world — not just in demos.
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>📱 Android & Kotlin</h3>
+      Architecture design, Jetpack Compose, MVVM/MVI, Kotlin Coroutines & Flows, KMP, performance optimisation, app security & obfuscation.<br/><br/>
+      <em>300,000+ users delivered. +75% code quality improvement on re-architecture.</em>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📡 Bluetooth, NFC & Hardware</h3>
+      Custom BLE GATT & NFC NDEF protocols, Host-Based Card Emulation (HCE), OTA firmware over BLE, SPAKE2+/HKDF/EC cryptography, Nordic Semiconductor SDK.<br/><br/>
+      <em>99% BLE connection success. 98% OTA firmware success rate.</em>
+    </td>
+    <td valign="top" width="33%">
+      <h3>☁️ Go Backend & AWS</h3>
+      Go (Gin), PostgreSQL, Redis, REST & GraphQL APIs, Docker, GitHub Actions, GitLab CI. AWS ECS/Fargate/ECR — end-to-end from mobile to cloud.<br/><br/>
+      <em>AWS Solutions Architect Associate certified · 2025.</em>
+    </td>
+  </tr>
+</table>
 
-Beyond engineering, I'm building a presence around honest technical education: sharing what I learn from real projects, not theory. If you're a mid-to-senior Android developer who wants to go deeper, you're in the right place.
+---
 
-```kotlin
-val vitalie = Engineer(
-    role        = "Senior Android Engineer",
-    specialisms = listOf("BLE", "Kotlin", "Mobile Architecture", "Go", "AWS"),
-    currentWork = listOf("Building a production BLE Android app", "Go backend on AWS Fargate"),
-    learning    = "Principal Engineer system design patterns",
-    website     = "https://vitaliecroitor.dev"
-)
-```
+## Career Highlights
+
+| Metric | Result |
+|--------|--------|
+| 🧑‍💻 Years in Android development | 13+ |
+| 👥 Active users delivered | 300,000+ |
+| 📡 BLE connection success rate | 99% |
+| 📦 OTA firmware success rate | 98% (avg. 6 min) |
+| ⚡ Delivery performance improvement | +60% (Dreamcraft) |
+| 🏗️ Team scaled | 2 → 11 developers |
+| 🎓 Onboarding time reduced | 8 weeks → 4 weeks |
+
+---
+
+## Experience
+
+**Lead Mobile Software Engineer** @ [Dreamcraft](https://dreamcraft.io) *(2023 – Present)*
+> Re-architected a healthcare Android app for seniors: BLE/NFC/HCE, OTA firmware, MVVM, CI/CD. Raised BLE success to 99%, OTA to 98%. Cut onboarding in half.
+
+**Android Engineer Lead** @ MotionTools — Remote, Hamburg *(2019 – 2023)*
+> Led end-to-end development of a logistics Android platform to 300,000+ users. Built a BLE driver-vehicle system cutting delivery time by 20%.
+
+**Lead Android Engineer** @ ITS Revolution Software — Cluj-Napoca *(2017 – 2019)*
+> Defined technical architecture, led Agile delivery, scaled team from 2 to 11 developers.
+
+**Senior Android Engineer** @ Endava — Cluj-Napoca *(2015 – 2017)*
+> Built a custom AOSP launcher for a proprietary tablet used by 5,000+ customers.
 
 ---
 
 ## Tech Stack
 
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Mobile**
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![BLE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Backend & Infrastructure
+**Wireless & Hardware**
+
+![BLE](https://img.shields.io/badge/BLE%20GATT-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![NFC](https://img.shields.io/badge/NFC%20%2F%20HCE-333333?style=flat-square&logo=nfc&logoColor=white)
+![Nordic SDK](https://img.shields.io/badge/Nordic%20Semiconductor-00A9CE?style=flat-square&logoColor=white)
+![OTA](https://img.shields.io/badge/OTA%20Firmware-0A7B80?style=flat-square&logoColor=white)
+
+**Backend & Cloud**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
-## Focus Areas
+## Certifications
 
-| Area | What I work on |
-|---|---|
-| 🔵 **BLE on Android** | Real-world Bluetooth LE peripheral communication, GATT, scanning, background mode |
-| 🏗 **Kotlin Architecture** | Clean Architecture, MVVM, MVI, modularisation at scale |
-| ☁️ **Mobile + Cloud** | Android app → Go backend → AWS (ECS Fargate, RDS, S3) |
-| 📱 **Production Systems** | RevenueCat, analytics, VoIP, performance, CI/CD |
-| 🎓 **Technical Education** | Articles, YouTube videos, and practical guides for mid-to-senior Android devs |
+🏆 **AWS Solutions Architect Associate** — Amazon Web Services · 2025
+🏆 **Associate Android Developer** — Google · 2016
 
 ---
 
-## Currently Building
+## Education
 
-- 🔵 A **production BLE Android app** with a custom Go backend on AWS Fargate
-- ✍️ Writing about **BLE on Android** — the hard parts nobody documents properly
-- 📹 Starting a **YouTube channel** focused on Android architecture and BLE
-- 🌐 Launching **[vitaliecroitor.dev](https://vitaliecroitor.dev)** — articles, guides, and future courses
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=vitaliecroitor&show_icons=true&theme=default&hide_border=true&title_color=0A7B80&icon_color=0A7B80&text_color=1C1C1A&bg_color=F5F4F0" />
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliecroitor&layout=compact&hide_border=true&title_color=0A7B80&text_color=1C1C1A&bg_color=F5F4F0&langs_count=6" />
-</div>
-
----
-
-## Latest Writing
-
-<!-- This section will be auto-updated via GitHub Actions once articles are published -->
-> Articles and guides are coming to [vitaliecroitor.dev](https://vitaliecroitor.dev) — follow along as I build.
+🎓 **Master's in AI & Computer Vision** — Technical University of Cluj-Napoca · 2013–2015
+🎓 **Bachelor's in Information Technology** — Technical University of Moldova · 2009–2013
 
 ---
 
 ## Let's Connect
 
-If you're a mid-to-senior Android developer working on **BLE**, **Kotlin architecture**, or **production mobile systems** — or you're trying to grow your engineering career toward Staff/Principal level — I'd love to connect.
+I'm open to senior and lead Android engineering roles, BLE/NFC hardware consulting, and collaborations in the Android developer community.
 
-<div align="center">
+<p>
   <a href="https://vitaliecroitor.dev">🌐 vitaliecroitor.dev</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/vitaliecroitor">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:vitalie@vitaliecroitor.dev">✉️ Email</a> &nbsp;·&nbsp;
-  <a href="https://youtube.com/@vitaliecroitor">▶️ YouTube</a>
-</div>
+  <a href="https://www.linkedin.com/in/vitalie-croitor">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:croitorvit@gmail.com">✉️ croitorvit@gmail.com</a>
+</p>
 
 ---
 
-<div align="center">
-  <sub>© 2026 Vitalie Croitor · Built in public · <a href="https://vitaliecroitor.dev">vitaliecroitor.dev</a></sub>
-</div>
+<sub>© 2026 Vitalie Croitor · Cluj-Napoca, Romania</sub>
