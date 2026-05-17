@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Vitalie Croitor</h1>
-  <p><strong>Lead Android Engineer · Bluetooth & Hardware Specialist · Engineering Leader</strong></p>
+  <p><strong>Lead Android Engineer · Bluetooth & Hardware Specialist · Engineering Manager</strong></p>
   <p>
     I build production-grade Android systems — from BLE device communication and NFC hardware integration to cloud infrastructure.<br/>
     13+ years shipping apps used by 300,000+ people, and leading the engineers who build them.
@@ -9,7 +9,7 @@
   <p>
     <a href="https://vitaliecroitor.dev">🌐 vitaliecroitor.dev</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/vitalie-croitor">💼 LinkedIn</a> &nbsp;·&nbsp;
-    <a href="mailto:croitorvit@gmail.com">✉️ croitorvit@gmail.com</a>
+    <a href="mailto:vitalie@vitaliecroitor.dev">✉️ vitalie@vitaliecroitor.dev</a>
   </p>
   <p>📍 Cluj-Napoca, Romania</p>
 </div>
@@ -119,7 +119,7 @@ I'm open to senior and lead Android engineering roles, BLE/NFC hardware consulti
 <p>
   <a href="https://vitaliecroitor.dev">🌐 vitaliecroitor.dev</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vitalie-croitor">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:croitorvit@gmail.com">✉️ croitorvit@gmail.com</a>
+  <a href="mailto:vitalie@vitaliecroitor.dev">✉️ vitalie@vitaliecroitor.dev</a>
 </p>
 
 ---
